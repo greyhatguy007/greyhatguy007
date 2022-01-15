@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @greyhatguy007
 - 👀 I’m interested in programming (python & c) , cybersecurity
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on cybersecurity
 - 📫 How to reach me email: greyhatguy007@gmail.com
