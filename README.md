@@ -1,4 +1,6 @@
 <h1> <b> Hey there ! <img src="https://github.com/greyhatguy007/resources/blob/main/wave.gif" width="30px"> </b> </h1>
+<h3>-I’m @greyhatguy007 </h3>
+
 
 ![Alt Text](https://github.com/greyhatguy007/resources/blob/main/language-banner.png)
 
@@ -23,8 +25,5 @@
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 
   
-- 👋 Hi, I’m @greyhatguy007
-- 👀 I’m interested in programming (python & c) , cybersecurity
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on cybersecurity
-- 📫 How to reach me email: greyhatguy007@gmail.com
+
+- 📫 Reach me @: greyhatguy007@gmail.com
