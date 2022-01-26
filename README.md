@@ -32,6 +32,7 @@
 
   
 
-- 📫 Reach me @: greyhatguy007@gmail.com
+- 📫 Reach me @ mail: greyhatguy007@gmail.com
+- 📫 Reach me @ Instagram : [Instagram](https://instagram.com/rit_08_/)
 
 
