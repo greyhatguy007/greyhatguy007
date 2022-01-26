@@ -5,7 +5,6 @@
 ![Alt Text](https://github.com/greyhatguy007/resources/blob/main/bash.svg)
 ![Alt Text](https://github.com/greyhatguy007/resources/blob/main/python.svg)
 <br>
-<img align="center" src="https://github.com/greyhatguy007/resources/blob/main/bash.svg" />
 
 - 👋 Hi, I’m @greyhatguy007
 - 👀 I’m interested in programming (python & c) , cybersecurity
