@@ -1,7 +1,10 @@
 <h1> <b> Hey there ! <img src="https://github.com/greyhatguy007/resources/blob/main/wave.gif" width="30px"> </b> </h1>
 <h2 align="center">  Whoami </h2> 
-![Alt Text](https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png)
-<h3> I’m Ritvik <I> aka </I> greyhatguy007 </h3>
+<h3 align="center"> I’m Ritvik <I> aka </I> greyhatguy007 </h3>
+<h3 align="center"> Don't know why I'm doing this </h3>
+<h3 align="center"> Aspiring programmer and Hacker </h3>
+<h3 align="center"> Still Learning ! </h3>
+
 
 
 ![Alt Text](https://github.com/greyhatguy007/resources/blob/main/language-banner.png)
