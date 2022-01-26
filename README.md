@@ -1,4 +1,6 @@
 <h1> <b> Hey there ! <img src="https://github.com/greyhatguy007/resources/blob/main/wave.gif" width="30px"> </b> </h1>
+<center> <h2> Whoami </h2> </center>
+
 <h3> I’m Ritvik <I> aka </I> greyhatguy007 </h3>
 
 
