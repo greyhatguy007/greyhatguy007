@@ -33,6 +33,6 @@
   
 
 - 📫 Reach me @ mail: greyhatguy007@gmail.com
-- 📫 Reach me @ Instagram : [Instagram](https://instagram.com/rit_08_/)
+- <h3> 📫 Reach me @ [Instagram](https://instagram.com/rit_08_/) </h3>
 
 
