@@ -1,5 +1,5 @@
 <h1> <b> Hey there ! <img src="https://github.com/greyhatguy007/resources/blob/main/wave.gif" width="30px"> </b> </h1>
-<h3>-I’m @greyhatguy007 </h3>
+<h3> I’m Ritvik <I> aka </I> @greyhatguy007 </h3>
 
 
 ![Alt Text](https://github.com/greyhatguy007/resources/blob/main/language-banner.png)
