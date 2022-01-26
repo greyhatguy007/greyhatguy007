@@ -5,8 +5,8 @@
 ![Alt Text](https://github.com/greyhatguy007/resources/blob/main/bash.svg)
 ![Alt Text](https://github.com/greyhatguy007/resources/blob/main/python.svg)
 <br>
-[![](https://github.com/greyhatguy007/resources/blob/main/instagram.jpg)](https://www.instagram.com/rit_08_/) 
-![Alt Text](https://github.com/greyhatguy007/resources/blob/main/instagram.jpg =200*200)
+#[![](https://github.com/greyhatguy007/resources/blob/main/instagram.jpg)](https://www.instagram.com/rit_08_/) 
+
 
 - 👋 Hi, I’m @greyhatguy007
 - 👀 I’m interested in programming (python & c) , cybersecurity
