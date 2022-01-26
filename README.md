@@ -1,4 +1,4 @@
-<h1> <b> Hey there ! </b> </h1>
+<h1> <b> Hey there ! <img src="https://github.com/greyhatguy007/resources/blob/main/wave.gif" width="30px"</b> </h1>
 
 ![Alt Text](https://github.com/greyhatguy007/resources/blob/main/language-banner.png)
 <br>
