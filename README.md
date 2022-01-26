@@ -14,6 +14,10 @@
   <b> Operating Systems Using </b>
   
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
+  
 - 👋 Hi, I’m @greyhatguy007
 - 👀 I’m interested in programming (python & c) , cybersecurity
 - 🌱 I’m currently learning Java
