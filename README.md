@@ -7,7 +7,7 @@
 <h5 align="center"> Still Learning ! :woozy_face: </h5>
 
 <h4> Why would you visit my repo ? :zany_face: </h4>
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+
 
   
 
@@ -42,6 +42,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyhatguy007&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 
 
 - 📫 Reach me @ mail: greyhatguy007@gmail.com
