@@ -2,10 +2,10 @@
 <hr></hr>
 <br></br>
 <h2 align="center">  Whoami ? </h2> 
-<h5 align="center"> I’m Ritvik <I> aka </I> greyhatguy007 :sunglasses:  :ghost: </h5>
-<h5 align="center"> Don't know why I'm doing this :alien: </h5>
-<h5 align="center"> Aspiring programmer and Hacker :face_in_clouds: </h5>
-<h5 align="center"> Still Learning ! :woozy_face: </h5>
+<h4 align="center"> I’m Ritvik <I> aka </I> greyhatguy007 :sunglasses:  :ghost: </h4>
+<h4 align="center"> Don't know why I'm doing this :alien: </h4>
+<h4 align="center"> Aspiring programmer and Hacker :face_in_clouds: </h4>
+<h4 align="center"> Still Learning ! :woozy_face: </h4>
 </br>
 <hr></hr>
 <h4> Why would you visit my repo ? :zany_face: </h4>
