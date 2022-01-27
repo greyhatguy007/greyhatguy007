@@ -32,6 +32,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greyhatguy007)](https://github.com/anuraghazra/github-readme-stats)
 
+[](https://komarev.com/ghpvc/?username=greyhatguy0007&label=PROFILE+VIEWS)
+
   
 
 - 📫 Reach me @ mail: greyhatguy007@gmail.com
