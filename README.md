@@ -8,6 +8,10 @@
 
 <h4> Why would you visit my repo ? :zany_face: </h4>
 
+<br>
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+</br>
+
 
   
 
