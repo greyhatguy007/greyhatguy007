@@ -1,3 +1,6 @@
+![title pic](https://miro.medium.com/max/700/0*JKyzq_e9TUlb84wX)
+<br></br>
+
 <h1 align="center" > <b> Hey there ! <img src="https://github.com/greyhatguy007/resources/blob/main/wave.gif" width="30px"> </b> </h1>
 <hr></hr>
 <br></br>
