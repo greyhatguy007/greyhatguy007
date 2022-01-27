@@ -1,8 +1,6 @@
 <h1 align="center" > <b> Hey there ! <img src="https://github.com/greyhatguy007/resources/blob/main/wave.gif" width="30px"> </b> </h1>
-
-
-
-<br>
+<hr></hr>
+<br></br>
 <h2 align="center">  Whoami ? </h2> 
 <h5 align="center"> I’m Ritvik <I> aka </I> greyhatguy007 :sunglasses:  :ghost: </h5>
 <h5 align="center"> Don't know why I'm doing this :alien: </h5>
