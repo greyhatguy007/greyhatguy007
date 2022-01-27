@@ -9,6 +9,7 @@
 <h5 align="center"> Aspiring programmer and Hacker :face_in_clouds: </h5>
 <h5 align="center"> Still Learning ! :woozy_face: </h5>
 </br>
+<hr></hr>
 <h4> Why would you visit my repo ? :zany_face: </h4>
 
 
