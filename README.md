@@ -77,7 +77,7 @@
 - 📫 Reach me @ [Instagram](https://instagram.com/rit_08_/)
 
 <br></br>
-<a href=”https://www.instagram.com/rit_08_">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram) </a>
+![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram) </a>
 
 
 
