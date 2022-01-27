@@ -74,10 +74,9 @@
 <br></br>
 
 - 📫 Reach me @ mail: greyhatguy007@gmail.com
-- 📫 Reach me @ [Instagram](https://instagram.com/rit_08_/)
 
 <br></br>
-<a href="https://instagram.com/"> 
+<a href="https://instagram.com/rit_08_"> 
   ![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)  </a>
 
 
