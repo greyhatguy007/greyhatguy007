@@ -73,4 +73,5 @@
 - 📫 Reach me @ mail: greyhatguy007@gmail.com
 - 📫 Reach me @ [Instagram](https://instagram.com/rit_08_/)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=eed9u1qa5bcccpdjyflal5st4&unique={true|1|on|yes})
 
