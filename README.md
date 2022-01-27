@@ -13,8 +13,7 @@
 
 ![Alt Text](https://github.com/greyhatguy007/resources/blob/main/language-banner.png)
 
-![Alt Text](https://github.com/greyhatguy007/resources/blob/main/bash.svg)
-![Alt Text](https://github.com/greyhatguy007/resources/blob/main/python.svg)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
