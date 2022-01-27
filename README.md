@@ -39,7 +39,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 <br></br>
-<b> Stuffs Still Learining </b>
+<h4> Stuffs Still Learining </h4>
 <br></br>
 
 
@@ -50,8 +50,6 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyhatguy007&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
 </a>
-
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 
 
 - 📫 Reach me @ mail: greyhatguy007@gmail.com
