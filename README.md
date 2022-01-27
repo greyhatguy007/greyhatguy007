@@ -30,9 +30,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greyhatguy007)](https://github.com/anuraghazra/github-readme-stats)
 
-[](https://komarev.com/ghpvc/?username=greyhatguy0007&label=PROFILE+VIEWS)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greyhatguy007&show_icons=true&theme=radical)
+
+
 
   
 
