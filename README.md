@@ -33,7 +33,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greyhatguy007&show_icons=true&theme=radical)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greyhatguy007&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
