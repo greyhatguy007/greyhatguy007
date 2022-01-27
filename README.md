@@ -5,12 +5,9 @@
 <h5 align="center"> Don't know why I'm doing this :alien: </h5>
 <h5 align="center"> Aspiring programmer and Hacker :face_in_clouds: </h5>
 <h5 align="center"> Still Learning ! :woozy_face: </h5>
-
-<h4> Why would you visit my repo ? :zany_face: </h4>
-
-<br>
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 </br>
+<h4> Why would you visit my repo ? :zany_face: </h4>
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 
 
   
