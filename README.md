@@ -6,8 +6,8 @@
 <h5 align="center"> Aspiring programmer and Hacker </h5>
 <h5 align="center"> Still Learning ! </h5>
 
-<h4> Why would you visit my repo > </h4>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<h4> Why would you visit my repo ? :blush: </h4>
+
   
 
 
