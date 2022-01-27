@@ -24,11 +24,13 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-<br><br>
+<br></br>
 <b> Favourite IDE's </b>
-<br><br>
-  ![Alt Text](https://github.com/greyhatguy007/resources/blob/main/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465.svg)
-  ![Alt Text](https://github.com/greyhatguy007/resources/blob/main/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a494445412d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465.svg)
+<br></br>
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
   <br><br>
   <b> Operating Systems Using </b>
   <br><br>
@@ -36,6 +38,9 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
+<br></br>
+<b> Stuffs Still Learining </b>
+<br></br>
 
 
 
