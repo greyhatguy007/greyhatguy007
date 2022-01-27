@@ -62,7 +62,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyhatguy007&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
 </a>
 
-![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 - 📫 Reach me @ mail: greyhatguy007@gmail.com
 - 📫 Reach me @ [Instagram](https://instagram.com/rit_08_/)
