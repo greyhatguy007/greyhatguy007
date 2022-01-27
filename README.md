@@ -67,8 +67,6 @@
 <br></br>
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 <br></br>
-
-<img align="center">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=eed9u1qa5bcccpdjyflal5st4&width=400?style=centerme)
 
 
