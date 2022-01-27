@@ -68,8 +68,9 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 <br></br>
 
-![Alt text]<align="center">(https://spotify-recently-played-readme.vercel.app/api?user=eed9u1qa5bcccpdjyflal5st4&width=400)
-
+<p align="center">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=eed9u1qa5bcccpdjyflal5st4&width=400)
+</p>
 
 - 📫 Reach me @ mail: greyhatguy007@gmail.com
 - 📫 Reach me @ [Instagram](https://instagram.com/rit_08_/)
