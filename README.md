@@ -65,6 +65,9 @@
 </a>
 
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=eed9u1qa5bcccpdjyflal5st4)
+
+
 - 📫 Reach me @ mail: greyhatguy007@gmail.com
 - 📫 Reach me @ [Instagram](https://instagram.com/rit_08_/)
 
