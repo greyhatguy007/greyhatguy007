@@ -65,7 +65,7 @@
 </a>
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=eed9u1qa5bcccpdjyflal5st4)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=eed9u1qa5bcccpdjyflal5st4&width=400)
 
 
 - 📫 Reach me @ mail: greyhatguy007@gmail.com
