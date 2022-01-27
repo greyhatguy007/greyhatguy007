@@ -6,6 +6,9 @@
 <h5 align="center"> Aspiring programmer and Hacker </h5>
 <h5 align="center"> Still Learning ! </h5>
 
+<h4> Why would you visit my repo > </h4>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+  
 
 
 ![Alt Text](https://github.com/greyhatguy007/resources/blob/main/language-banner.png)
@@ -39,8 +42,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyhatguy007&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-  
+
 
 - 📫 Reach me @ mail: greyhatguy007@gmail.com
 - 📫 Reach me @ [Instagram](https://instagram.com/rit_08_/)
