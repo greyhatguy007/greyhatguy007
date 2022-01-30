@@ -4,7 +4,7 @@
 <h1 align="center" > <b> Hey there ! <img src="https://github.com/greyhatguy007/resources/blob/main/wave.gif" width="30px"> </b> </h1>
 <hr></hr>
 <br></br>
-<h2 align="center">  Whoami ? </h2> 
+<h2 align="center ">  Whoami ? </h2> 
 <h4 align="center"> I’m Ritvik <I> aka </I> greyhatguy007 :sunglasses:  :ghost: </h4>
 <h4 align="center"> Don't know why I'm doing this :alien: </h4>
 <h4 align="center"> Aspiring programmer and Pentester :face_in_clouds: </h4>
