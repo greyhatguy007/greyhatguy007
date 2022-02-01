@@ -1,6 +1,8 @@
 
 <br></br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2302E400&duration=4500&center=true&vCenter=true&lines=Hey+There+!)](https://git.io/typing-svg)
+
 <h1 align="center" > <b> Hey there ! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> </b> </h1>
 <hr></hr>
 <br></br>
