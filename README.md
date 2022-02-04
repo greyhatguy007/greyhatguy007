@@ -1,4 +1,4 @@
-![entry](https://thumbs.dreamstime.com/b/screen-source-code-abstract-technology-background-developer-programming-coding-computer-virus-mal-ware-attack-95206313.jpg=250x500)
+![entry](https://maddyness-uk.twic.pics/2020/04/code-on-a-computer-screen-scaled.jpg?twic=v1/cover=780x358)
 <br></br>
 <h1 align="center" > <b> Hey there ! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> </b> </h1>
 <hr></hr>
