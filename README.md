@@ -1,4 +1,4 @@
-![entry](https://maddyness-uk.twic.pics/2020/04/code-on-a-computer-screen-scaled.jpg?twic=v1/cover=2000x700)
+
 <br></br>
 <h1 align="center" > <b> Hey there ! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> </b> </h1>
 <hr></hr>
