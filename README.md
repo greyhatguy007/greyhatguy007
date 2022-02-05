@@ -2,8 +2,8 @@
 <br></br>
 <h1 align="center" > <b> Hey there ! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> </b> </h1>
 <hr></hr>
-
 <br></br>
+
 <h2 align="center">  Whoami ? </h2> 
 <h4 align="center"> I’m Ritvik <I> aka </I> greyhatguy007 :sunglasses:  :ghost: </h4>
 <h4 align="center"> Don't know why I'm doing this :alien: </h4>
