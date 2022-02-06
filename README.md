@@ -7,8 +7,7 @@
 <h4 align="center"> I’m Ritvik <I> aka </I> greyhatguy007 :sunglasses:  :ghost: </h4>
 <h4 align="center"> Don't know why I'm doing this :alien: </h4>
 <h4 align="center"> Aspiring programmer and Pentester :face_in_clouds: </h4>
-<h4 align="center"> Still Learning ! :woozy_face: </h4>
-</br>
+
 <hr> </hr>
 <h4> Why would you visit my repo ? :zany_face: </h4>
 
