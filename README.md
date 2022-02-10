@@ -1,7 +1,7 @@
 <p align="center" >
   <img src="https://github.com/greyhatguy007/resources/blob/main/Intro.gif" alt="Hi, I'm Ritvik 👋 I'm a 🚀 Indian developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
-<br> </br>
+<br></br>
 <h1 align="center" > <b> Whoami ? <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> </b> </h1>
 
 <h4 align="center"> I’m Ritvik <I> aka </I> greyhatguy007 :sunglasses:  :ghost: </h4>
