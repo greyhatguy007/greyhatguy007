@@ -62,9 +62,14 @@ Now I don't know how to quit !
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-
 <br></br>
+
+<b> Current Rig 🔥 </b>
+<br/> <br/>
+![lap](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+![spec](https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+<br></br>
+
 <br></br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br></br>
@@ -81,11 +86,15 @@ Now I don't know how to quit !
 <br></br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greyhatguy007&theme=dark)](https://git.io/streak-stats)
 
+<!--
 <br></br>
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 <br></br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=eed9u1qa5bcccpdjyflal5st4&width=400?style=centerme)
 <br></br>
+-->
+
+
 
 ## 📫 Reach me 
 
