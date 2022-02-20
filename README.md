@@ -84,16 +84,17 @@ Now I don't know how to quit !
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=greyhatguy007&show_icons=true&theme=radical" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=greyhatguy007&theme=dark"> </a>
 </p>
-
 <br></br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=greyhatguy007&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br></br>
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greyhatguy007&theme=dark)](https://git.io/streak-stats)
 
-<!--
 <br></br>
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 <br></br>
