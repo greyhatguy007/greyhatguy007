@@ -8,14 +8,14 @@
 <h4 align="center"> Don't know why I'm doing this :alien: </h4>
 <h4 align="center"> Aspiring programmer and Pentester :face_in_clouds: </h4>
 <br></br>
-<p>
+
 
 ```python
 
 Started with a little bit ;
 Now I don't know how to quit !
 ```
-</p>
+
 
 
 <hr> </hr>
@@ -70,15 +70,22 @@ Now I don't know how to quit !
 ![grap](https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 <br></br>
 
+<p align="center">
 <br></br>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <br></br>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyhatguy007&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
+</a>
+  <br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=greyhatguy007&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=greyhatguy007&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyhatguy007&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
-</a>
+</p>
+
 <br></br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=greyhatguy007&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
