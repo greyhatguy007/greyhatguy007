@@ -109,9 +109,6 @@ Now I don't know how to quit !
 <br></br>
 <a href="https://stackoverflow.com/users/18259104/ritvik-prasad">
   ![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) </a>
-<a href="https://instagram.com/rit_08_"> 
-  ![alt text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  </a>
-<a href="https://twitter.com/rit_08_">
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) </a>
 #### mail: greyhatguy007@gmail.com
 
