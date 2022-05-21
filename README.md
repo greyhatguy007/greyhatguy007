@@ -110,7 +110,7 @@ Now I don't know how to quit !
 <a href="https://stackoverflow.com/users/18259104/ritvik-prasad">
   ![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) </a>
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) </a>
-#### mail: greyhatguy007@gmail.com
+#### mail: mritvikprasad@gmail.com
 
 ## Reach Me ☝️☝️☝️
 
