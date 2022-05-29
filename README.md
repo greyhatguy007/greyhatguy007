@@ -94,9 +94,11 @@ Now I don't know how to quit !
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=greyhatguy007&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=greyhatguy007" width="400"/>
-</a>
+    
+ <h3> Leetcode Stats </h3>
+    
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/greyhatguy007?theme=dark,unicorn)
+    
 
 <br></br>
 <!--
