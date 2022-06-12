@@ -115,9 +115,15 @@ Now I don't know how to quit !
 <hr>
 
 <br></br>
+
+
 <a href="https://stackoverflow.com/users/18259104/ritvik-prasad">
-  ![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) </a>
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) </a>
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"> </a>
+
+<a href="https://instagram.com/rit_08_/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
+
 #### mail: mritvikprasad@gmail.com
 
 ## Reach Me ☝️☝️☝️
