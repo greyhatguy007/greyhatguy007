@@ -73,7 +73,7 @@ Now I don't know how to quit !
 ![lap](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 ![proc](https://img.shields.io/badge/Intel%20Core_i5_9th%20Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![grap](https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-<br></br>
+<br> </br>
 
 <p align="center">
 <br></br>
