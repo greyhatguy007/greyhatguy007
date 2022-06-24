@@ -22,7 +22,7 @@ Now I don't know how to quit !
 <hr> </hr>
 <h4> Why would you visit my repo ? :zany_face: </h4>
 
-## 🌟 Stargazers over time
+#### 🌟 Visitors over time
 ![](https://komarev.com/ghpvc/?username=greyhatguy007&label=PROFILE+VIEWS&style=plastic)
 
 
