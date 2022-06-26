@@ -23,7 +23,7 @@ Now I don't know how to quit !
 <hr> </hr>
 
 <p align="center">
-  <b> Stuffs Going On... </b>
+  <b> <u> Stuffs Going On... </u> </b>
   <br/>
   <br/>
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras">
