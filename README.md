@@ -115,7 +115,7 @@ Now I don't know how to quit !
 
 
 
-[![Ritvik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ritvikprasad)](https://github.com/anuraghazra/github-readme-stats)
+[![Ritvik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ritvikprasad&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
 
     
  <h3> Leetcode Stats  </h3>
