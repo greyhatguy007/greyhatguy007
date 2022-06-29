@@ -113,6 +113,10 @@ Now I don't know how to quit !
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=greyhatguy007&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+
+[![Ritvik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ritvikprasad)](https://github.com/anuraghazra/github-readme-stats)
+
     
  <h3> Leetcode Stats  </h3>
     
@@ -120,6 +124,8 @@ Now I don't know how to quit !
     
 
 <br></br>
+
+
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greyhatguy007&theme=dark)](https://git.io/streak-stats)
 
@@ -132,7 +138,6 @@ Now I don't know how to quit !
 <hr>
 
 <br></br>
-
 
 <a href="https://stackoverflow.com/users/18259104/ritvik-prasad">
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"> </a>
