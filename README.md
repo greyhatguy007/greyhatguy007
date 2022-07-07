@@ -110,6 +110,8 @@ Now I don't know how to quit !
 </p>
 <br></br>
 
+<div align=center">
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=greyhatguy007&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
@@ -121,6 +123,7 @@ Now I don't know how to quit !
     
  ![Leetcode Stats](https://leetcard.jacoblin.cool/greyhatguy007?theme=dark,unicorn)
     
+</div>
 
 <br></br>
 
