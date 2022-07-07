@@ -50,7 +50,7 @@ Now I don't know how to quit !
 
 <br/>
 
-<b> IDE's & Editors Running </b>
+<b> IDE's & Editors - Up & Running </b>
 
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
