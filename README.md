@@ -145,6 +145,8 @@ Now I don't know how to quit !
 <a href="https://instagram.com/rit_08_/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
+<a href="https://www.linkedin.com/in/ritvik-prasad-608176242">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 #### mail: mritvikprasad@gmail.com
 
