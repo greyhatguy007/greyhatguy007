@@ -134,6 +134,11 @@ Now I don't know how to quit !
 <br></br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=eed9u1qa5bcccpdjyflal5st4&width=400?style=centerme)
 <br></br>
+
+
+<a href="https://instagram.com/rit_08_/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
 -->
 <hr>
 
@@ -142,8 +147,7 @@ Now I don't know how to quit !
 <a href="https://stackoverflow.com/users/18259104/ritvik-prasad">
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"> </a>
 
-<a href="https://instagram.com/rit_08_/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
 
 <a href="https://www.linkedin.com/in/ritvik-prasad-608176242">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
