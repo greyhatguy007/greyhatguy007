@@ -100,7 +100,7 @@ Now I don't know how to quit !
 
 <p align="center">
   <a href="https://github.com/anuraghazra/convoychat">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyhatguy007&langs_count=10)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyhatguy007&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
 </a>
   <br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
