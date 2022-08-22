@@ -1,6 +1,6 @@
 <p align="center">
 
- <img src="https://github.com/greyhatguy007/resources/blob/main/Intro.gif" alt="Hi, I'm Ritvik 👋 I'm a 🚀 Indian developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/greyhatguy007/resources/blob/main/Intro.gif" alt="Hi, I'm Ritvik 👋 I'm a 🚀 Indian developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
 <br/>
@@ -155,7 +155,7 @@ Now I don't know how to quit !
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 #### mail: mritvikprasad@gmail.com
-
+ 
 ## Reach Me ☝️☝️☝️
 
 
