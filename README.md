@@ -119,15 +119,21 @@ Now I don't know how to quit !
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=greyhatguy007&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
 
+<h3> Time Spent This Week </h3>
+
+[![Coding](https://wakatime.com/badge/user/ef147abe-f36f-460c-87f3-51b50708c5bd.svg)](https://wakatime.com/@ef147abe-f36f-460c-87f3-51b50708c5bd)
 
 [![Ritvik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ritvikprasad&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
+
 
     
  <h3> Leetcode Stats  </h3>
     
  ![Leetcode Stats](https://leetcard.jacoblin.cool/greyhatguy007?theme=dark,unicorn)
-    
+
+</div>
 
 <br></br>
 
