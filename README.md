@@ -121,7 +121,7 @@ Now I don't know how to quit !
 
 <div align="center">
 
-<h3> Time Spent This Week </h3>
+<h3> Time Spent </h3>
 
 [![Coding](https://wakatime.com/badge/user/ef147abe-f36f-460c-87f3-51b50708c5bd.svg)](https://wakatime.com/@ef147abe-f36f-460c-87f3-51b50708c5bd)
 
