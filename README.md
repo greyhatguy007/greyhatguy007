@@ -177,4 +177,6 @@ Now I don't know how to quit !
 
 Buy Me a Coffee ! 
 
-Monero Wallet : 49L71eho6FLGECd7RHhJ476VbUuXysxE7DYB4vuvDU3J1jqqy9kZBw5CNu7riuruVRWkXfeoLEM5kQvrcHgTfAoJM6gXu4x
+Etherium : 0x97545DD6E6aeDd650A96e534c9e409c5e1de427E
+
+Monero   : 49L71eho6FLGECd7RHhJ476VbUuXysxE7DYB4vuvDU3J1jqqy9kZBw5CNu7riuruVRWkXfeoLEM5kQvrcHgTfAoJM6gXu4x
