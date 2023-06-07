@@ -16,7 +16,7 @@
 
 <h5 align="center"> <a href="https://greyhatguy007.github.io/">Check out My Website (in progress) </a> </h5> 
 
-<h5 align="center"> <a href="https://greyhatguy007.github.io/movieware">One of my recent Project ( website) </a> </h5> 
+<h5 align="center"> <a href="https://greyhatguy007.github.io/moviewave/">One of my recent Project ( website ) </a> </h5> 
 
 <br/>
 
