@@ -120,8 +120,13 @@ Now I don't know how to quit !
 </p>
 <br></br>
 
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=greyhatguy007&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=greyhatguy007&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=greyhatguy007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div/>
 
 <div align="center">
 
@@ -142,6 +147,7 @@ Now I don't know how to quit !
 <br></br>
 
 
+ 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greyhatguy007&theme=dark)](https://git.io/streak-stats)
 
