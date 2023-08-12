@@ -5,7 +5,7 @@
 
 <br/>
 
-<h1 align="center" > <b> Whoami ?  </b> </h1>
+<h1 align="center"> <b> Whoami ?  </b> </h1>
 
 <h4 align="center"> I’m Ritvik <I> aka </I> greyhatguy007 :ghost: </h4>
 
