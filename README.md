@@ -142,7 +142,8 @@ Now I don't know how to quit !
     
  <h3> Leetcode Stats  </h3>
     
- ![Leetcode Stats](https://leetcard.jacoblin.cool/greyhatguy007?theme=dark,unicorn)
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/greyhatguy007?ext=heatmap&theme=dark)
+ 
 
 </div>
 
