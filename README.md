@@ -71,6 +71,7 @@ Now I don't know how to quit !
 
    <img src='https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f' width=45></img>
    <img src='https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png' width=45></img>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png' width=45></img>
    <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhbH-UpHQMdmoB1pVQ9L7jH88u6H15isaxQQ&usqp=CAU' width=45></img>
    <img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width=45></img>
    <img src='https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg' width=45></img>
