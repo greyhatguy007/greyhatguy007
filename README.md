@@ -44,7 +44,7 @@ Now I don't know how to quit !
   <h3>Languages<h3/>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,java,cpp,c,html,css,javascript,typescript,solidity,powershell,octave,matlab,lua,md&perline=8" />
+    <img src="https://skillicons.dev/icons?i=bash,python,java,cpp,c,html,css,javascript,typescript,solidity,powershell,octave,matlab,r,lua,md&perline=8" />
   </a>
 
 <br/>
