@@ -48,8 +48,7 @@ Now I don't know how to quit !
   </a>
 
 <br/>
-<br/>
-<br/>
+
 
   <h3>Frameworks & Libraries<h3/>
 
@@ -58,8 +57,7 @@ Now I don't know how to quit !
   </a>
 
 <br/>
-<br/>
-<br/>
+
 
   <h3>Tools of Trade </h3>
 
@@ -83,16 +81,13 @@ Now I don't know how to quit !
    <img src='https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg' width=45></img>
 
 <br/>
-<br/>
-<br/>
+
 
   <h3>Would Love to Learn </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,rust,ruby,prisma,redis,supabase&perline=" />
   </a>
 
-<br/>
-<br/>
 <br/>
 
 <h3> Additional </h3>
@@ -101,8 +96,6 @@ Now I don't know how to quit !
   </a>
 
 <br/>
-<br/>
-<br/>
 
 <h3> Current Rig 🔥 </h3>
 
@@ -110,7 +103,7 @@ Now I don't know how to quit !
 ![proc](https://img.shields.io/badge/Intel%20Core_i5_9th%20Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![grap](https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-</div>
+
 
 
 <div align="center">
@@ -154,14 +147,9 @@ Now I don't know how to quit !
 
 </div>
 
-
-
-
-
--->
 <hr>
 
-<br></br>
+<br/>
 
 <a href="https://stackoverflow.com/users/18259104/ritvik-prasad">
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"> </a>
@@ -180,9 +168,3 @@ Now I don't know how to quit !
 
 ![](https://hit.yhype.me/github/profile?user_id=77543865)
 
-
-Buy Me a Coffee ! 
-
-Etherium : 0x97545DD6E6aeDd650A96e534c9e409c5e1de427E
-
-Monero   : 49L71eho6FLGECd7RHhJ476VbUuXysxE7DYB4vuvDU3J1jqqy9kZBw5CNu7riuruVRWkXfeoLEM5kQvrcHgTfAoJM6gXu4x
