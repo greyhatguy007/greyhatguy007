@@ -92,7 +92,7 @@ Now I don't know how to quit !
 
 <h3> Additional </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arduino,vscode,bsd,raspberrypi,selenium&perline=" />
+    <img src="https://skillicons.dev/icons?i=linux,arduino,vscode,raspberrypi,selenium&perline=" />
   </a>
 
 <br/>
