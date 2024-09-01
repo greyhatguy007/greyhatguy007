@@ -1,7 +1,22 @@
 <p align="center" >
 
  <img src="https://github.com/greyhatguy007/resources/blob/main/Intro.gif" alt="Hi, I'm Ritvik 👋 I'm a 🚀 Indian developer 🚀 I ❤️ Happy Hardcore ❤️">
+
 </p>
+
+<div align="center">
+
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Ritvik.png" alt="TryHackMe">
+
+<br/>
+<br/>
+
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/greyhatguy007?ext=heatmap&theme=dark)
+
+
+
+</div>
+
 
 <br/>
 
@@ -28,6 +43,8 @@
 Started with a little bit ;
 Now I don't know how to quit !
 ```
+
+
 
 
 <hr> </hr>
@@ -140,10 +157,7 @@ Now I don't know how to quit !
 [![Ritvik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ritvikprasad&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3> Leetcode Stats </h3>
 
- ![Leetcode Stats](https://leetcard.jacoblin.cool/greyhatguy007?ext=heatmap&theme=dark)
- 
 
 </div>
 
