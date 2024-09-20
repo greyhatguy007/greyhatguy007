@@ -11,11 +11,11 @@
 <br/>
 <br/>
 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=greyhatguy007&theme=dark&force_username=true&title_color=ff0000)
+
+
  ![Leetcode Stats](https://leetcard.jacoblin.cool/greyhatguy007?ext=heatmap&theme=dark)
 
-
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=greyhatguy007)
 
 </div>
 
