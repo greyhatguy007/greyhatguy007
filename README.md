@@ -2,7 +2,7 @@
 
 <p align="center">
 <strong>DevSecOps Engineer / SRE</strong> · India · UTC+05:30<br>
-<a href="https://blog.greyhatguy007.win"><em>I keep production alive, then write down what tried to kill it.</em></a>
+<a href="https://greyhatguy007.win"><em>I keep production alive, then write down what tried to kill it.</em></a>
 </p>
 
 ### Currently
@@ -13,7 +13,7 @@
 
 
 ### Writing 
-- Field notes, incident write-ups and infrastructure autopsies at [my blog](https://blog.greyhatguy007.win)
+- Field notes, incident write-ups and infrastructure autopsies in my [writeups](https://greyhatguy007.win/#writing)
 
 
 
@@ -26,6 +26,6 @@
 
 ### Elsewhere
 
-[SRE Blog - Ritvik](https://blog.greyhatguy007.win) · [LinkedIn](https://www.linkedin.com/in/ritvik-prasad-m/) · [mritvikprasad@gmail.com](mailto:mritvikprasad@gmail.com)
+[Website/Blog](https://greyhatguy007.win) · [LinkedIn](https://www.linkedin.com/in/ritvik-prasad-m/) · [mritvikprasad@gmail.com](mailto:mritvikprasad@gmail.com)
 
 <p align="center"><em>Knowledge is open-source.</em></p>
